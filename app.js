@@ -79,17 +79,26 @@
 // console.log(visitorname + "ordered" + orderquantity + producttitle + "on XYZ Clothing store")
 
 
+// CHAPTER 4
 
+// answer 1
+// var name = "taha" , fathername = "yaseen" , age = 16
 
+// answer 2
 
+// 5 legal variables names
+// username
+// email
+// greet_user
+// $name
+// taha123
 
-
-
-
-
-
-
-
+// 5 illegal variables names
+// 23name
+// full@name
+// 12username
+// name&fathername
+// function
 
 
 
