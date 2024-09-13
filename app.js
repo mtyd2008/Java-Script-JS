@@ -103,6 +103,7 @@
 // CHAPTER 5
 
 // answer 1
+
 // num1 = 23;
 // num2 = 7;
 // var sum = num1 + num2;
@@ -110,6 +111,7 @@
 
 
 // answer 2
+
 // var sum = num1 - num2;
 // console.log(sum);
 
@@ -124,6 +126,7 @@
 
 
 // answer 3
+
 // num1 = 7
 // num2 = 3
 
@@ -148,10 +151,12 @@
 // console.log("The remainder is:" + remainder);
 
 // answer 4 
+
 // var ticket = 600
 // console.log("Total cost to buy 5 tickets to a movie is" + ticket*5 + "PKR");
 
 // answer 5
+
 // var Table = "Table of 4"
 // var sum1 = "4x1 = 4"
 // var sum2 = "4x2 = 8"
